@@ -1,0 +1,20 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "First my project Gulp",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladya",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.10",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1"
+  }
+}
